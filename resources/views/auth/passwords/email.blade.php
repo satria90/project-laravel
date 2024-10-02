@@ -4,7 +4,7 @@
 <body class="hold-transition login-page">
     <div class="login-box">
       <div class="login-logo">
-        <a href="{{ route('home') }}"><b>{{ config('app.name', 'Laravel') }}</b> 1.0</a>
+        <a href="{{ route('home') }}"><b>FORGOT</b> PASSWORD</a>
       </div>
       <!-- /.login-logo -->
       <div class="card">
